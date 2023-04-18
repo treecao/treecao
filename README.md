@@ -1,7 +1,7 @@
 # Hi, I'm Tree! 👋🎄
 
 - 🔭 I’m currently working on broadening my technical knowlege   
-- 🌱 I’m intent on learning all the things. Currently focusing on CS for JS; next up: PWA  
+- 🌱 I’m intent on learning all the things. Currently focusing on NoSQL; next up: PWA  
 - 👯 I’m open to collaborate on any cool projects && am always down to be study buddies(just don't be a know-it-all :wink:)
 
 ## ⚡ Fun facts
